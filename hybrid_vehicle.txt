@@ -1,5 +1,2 @@
 HYBRID_EV
-battery we uses is lithion ion battery
-it is eco friendly
-it runs in both ways
 we have created vehicle that runs both on petrol and battery
